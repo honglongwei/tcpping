@@ -19,3 +19,17 @@ ping端口延迟
 ![Image](https://github.com/honglongwei/tcpping/blob/master/images/2.jpg) <br>
 ![Image](https://github.com/honglongwei/tcpping/blob/master/images/3.jpg) <br>
 
+
+
+* ### windows安装 <br>
+ (以windows7安装为例)
+
+1. 下载安装包:tcpping_for_windows.zip
+
+2. 解压安装包,将编译执行文件拷贝到C:\Windows\System32\目录下
+![Image](https://github.com/honglongwei/tcpping/blob/master/images/4.jpg) <br>
+![Image](https://github.com/honglongwei/tcpping/blob/master/images/5.jpg) <br>
+
+3. 使用方法同linux <br>
+![Image](https://github.com/honglongwei/tcpping/blob/master/images/6.jpg) <br>
+
